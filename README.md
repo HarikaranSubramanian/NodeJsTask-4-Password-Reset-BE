@@ -28,7 +28,7 @@ To get started with the Password Reset and User Management API, follow these ste
 
 4. **Database Setup**: Set up a MongoDB database either locally or using a cloud service like MongoDB Atlas. Update the `.env` file with the appropriate database connection URI.
 
-5. **Start the Server**: Start the server by running `npm start` or `npm run dev` if using nodemon for development. The API will be accessible at the specified port (default is 8080).
+5. **Start the Server**: Start the server by running `npm start` or `npm run dev` if using nodemon for development. The API will be accessible at the specified port (default is 5000).
 
 6. **Testing**: Test the API endpoints using tools like Postman or curl to ensure everything is working as expected.
 
