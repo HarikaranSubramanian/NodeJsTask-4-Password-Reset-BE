@@ -20,7 +20,7 @@ Welcome to the Password Reset and User Management API! This repository contains 
 
 To get started with the Password Reset and User Management API, follow these steps:
 
-1. **Clone the Repository**: Clone this repository to your local machine using `https://github.com/manu-git-b-s/password_reset_api.git`.
+1. **Clone the Repository**: Clone this repository to your local machine using `(https://github.com/HarikaranSubramanian/NodeJsTask-4-Password-Reset-BE.git)`.
 
 2. **Install Dependencies**: Install the necessary dependencies by running `npm install`.
 
